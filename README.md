@@ -28,6 +28,7 @@ Requirementで列挙したライブラリなどのインストール方法を説
 ```bash
 $ npm install --save ejs
 $ npm install --save passport
+$ npm install --save passport-local
 $ npm i express passport passport-http
 ```
 
