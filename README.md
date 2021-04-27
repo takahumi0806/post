@@ -26,7 +26,8 @@
 Requirementで列挙したライブラリなどのインストール方法を説明する
 
 ```bash
-pip install huga_package
+$ npm install --save ejs
+$ npm i express passport passport-http
 ```
 
 # Usage
