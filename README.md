@@ -32,6 +32,7 @@ $ npm install --save passport
 $ npm install --save passport-local
 $ npm install --save body-parser
 $ npm i express passport passport-http
+$ npm install passport-jwt
 ```
 
 # Usage
